@@ -1,0 +1,42 @@
+/* Reset de estilos para garantir uma base consistente */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte padrão */
+    background-color: #f0f0f0; /* Cor de fundo da página */
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o conteúdo */
+}
+
+header h1 {
+    margin-bottom: 10px; /* Espaçamento inferior do título */
+}
+
+header nav a {
+    color: #fff; /* Cor dos links */
+    text-decoration: none; /* Remove sublinhado */
+    margin: 0 10px; /* Espaçamento horizontal entre os links */
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #333; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o conteúdo */
+}
+
+footer p {
+    margin-bottom: 10px; /* Espaçamento inferior dos parágrafos */
+}
