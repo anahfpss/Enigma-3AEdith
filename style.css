@@ -13,7 +13,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-    background-color: #0feed0; /* Cor de fundo */
+    background-color: #cdf5f1; /* Cor de fundo */
     color: #f1f1f1; /* Cor do texto */
     padding: 20px; /* Espaçamento interno */
     text-align: center; /* Centraliza o conteúdo */
@@ -31,7 +31,7 @@ header nav a {
 
 /* Estilos para o rodapé */
 footer {
-    background-color: #00ffdd; /* Cor de fundo */
+    background-color: #cdf5f1; /* Cor de fundo */
     color: #fff; /* Cor do texto */
     padding: 20px; /* Espaçamento interno */
     text-align: center; /* Centraliza o conteúdo */
